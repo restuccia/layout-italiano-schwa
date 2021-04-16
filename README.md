@@ -38,8 +38,13 @@ Per digitare lo schwa ə con il nuovo layout tastiera, basta premere i tasti `op
 
 ## Info sul layout
 Il layout è stato creato con [sillsdev/Ukelele](https://github.com/sillsdev/Ukelele), a partire dal layout tastiera italiano di default.
+
 Il software Keyboard Installer per installare il layout è questo qui [JohnBrownie/Keyboard-Installer](https://github.com/JohnBrownie/Keyboard-Installer).
+
 Il layout è stato testato sul mio MacBook Air (mid-2012), dovrebbe funzionare su qualsiasi Mac abbastanza recente.
+
+## Problemi?
+Per segnalare un problema apri una issue [cliccando qui](https://github.com/restuccia/layout-italiano-schwa/issues), oppure scrivimi su twitter [@mario_restuccia](https://twitter.com/mario_restuccia).
 
 ## Più informazioni sul linguaggio inclusivo
 - [italianoinclusivo.it](https://italianoinclusivo.it/)
