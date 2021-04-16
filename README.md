@@ -10,14 +10,31 @@ Data l'assenza del simbolo ə dalle tastiere italiane, ho creato un nuovo layout
 Per digitare lo schwa ə con il nuovo layout tastiera, basta premere i tasti `option (⌥) + a`. Per lo schwa maiuscolo Ə, la combinazione di tasti è `option (⌥) + shift (maiuscolo) + a`
 
 ## Come installare il layout
-1. Aprire il file `italiano+schwa.dmg`;
-2. Nella finestra che apparirà, aprire `Keyboard Installer`;
-3. Trascinare il file `italiano+schwa.bundle` sulla finestra di Keyboard Installer;
-4. Cliccare su `Install for current user`;
-5. Riavviare il computer;
-6. Cliccare sul menu Apple ()  > Preferenze di Sistema, poi su Tastiera, quindi sulla scheda “Sorgenti di input”;
-7. Cliccare sul bottone "+", poi usare il campo di ricerca per cercare "schwa";
-8. Selezionare il layout "Italiano+schwa".
+1. **Scarica il layout cliccando [qui](https://github.com/restuccia/layout-italiano-schwa/releases/download/v0.1/italiano+schwa.dmg);**
+2. **Aprire il file `italiano+schwa.dmg`;**
+<img src="https://raw.githubusercontent.com/restuccia/layout-italiano-schwa/main/screenshots/1-dmg.jpg">
+
+3. **Nella finestra che apparirà, aprire "Keyboard Installer";**
+<img src="https://raw.githubusercontent.com/restuccia/layout-italiano-schwa/main/screenshots/2-dmg_open.jpg" width=50% height=50%>
+
+4. **Trascinare il file "italiano+schwa.bundle" sulla finestra di Keyboard Installer;**
+<img src="https://raw.githubusercontent.com/restuccia/layout-italiano-schwa/main/screenshots/3-installer.jpg" width=50% height=50%>
+
+5. **Cliccare su "Install for current user";**
+6. **Riavviare il computer;**
+
+7. **Cliccare sul menu Apple ()  > Preferenze di Sistema, poi su Tastiera, quindi sulla scheda “Sorgenti di input”;**
+<img src="https://raw.githubusercontent.com/restuccia/layout-italiano-schwa/main/screenshots/4-preferences.jpg" width=40% height=40%>
+<img src="https://raw.githubusercontent.com/restuccia/layout-italiano-schwa/main/screenshots/5-tastiera.jpg" width=50% height=50%>
+
+8. **Cliccare sul bottone "+", poi usare il campo di ricerca per cercare "schwa";**
+<img src="https://raw.githubusercontent.com/restuccia/layout-italiano-schwa/main/screenshots/6-input.jpg" width=50% height=50%>
+
+9. **Selezionare il layout "Italiano+schwa" e cliccare su aggiungi;**
+10. **Una icona con la bandiera italiana apparirà nella barra dei menu, in alto a destra nello schermo. Clicca sulla bandiera per scegliere il nuovo layout.**
+<img src="https://raw.githubusercontent.com/restuccia/layout-italiano-schwa/main/screenshots/7-menubar.jpg">
+
+11. **Per digitare lo schwa ə con il nuovo layout tastiera, basta premere i tasti** `option (⌥) + a`. **Per lo schwa maiuscolo Ə, la combinazione di tasti è** `option (⌥) + shift (maiuscolo) + a`.
 
 ## Info sul layout
 Il layout è stato creato con [sillsdev/Ukelele](https://github.com/sillsdev/Ukelele), a partire dal layout tastiera italiano di default.
